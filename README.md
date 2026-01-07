@@ -16,7 +16,7 @@ mongodb_agent_distribution_general/
 ├── LICENSE                            # MIT License
 ├── QUICK_START.md                     # 5-minute setup guide  
 ├── setup.sh                           # Automated setup script
-├── start_server.sh                    # Server start script
+├── start_custom_server.sh             # Server start script
 ├── .env.template                      # Configuration template
 ├── mongodb_agent-1.0.0-py3-none-any.whl  # Package wheel
 ├── docs/                              # Documentation
